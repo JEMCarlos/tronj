@@ -2,6 +2,8 @@
 
 The TRON client library.
 
+https://andelf.gitbook.io/tron/tron-by-example/generate-address-offline
+
 ## How to use
 
 ### Gradle Setting
